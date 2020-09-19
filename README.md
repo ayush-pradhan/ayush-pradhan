@@ -23,6 +23,7 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 -[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/shanu-mishra/)
 -[![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/_ayush_pradhan_/)
 -[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayupradhan1999@gmail.com)](mailto:ayupradhan1999@gmail.com)
+![pexels-dương-nhân-1529881](https://user-images.githubusercontent.com/47218490/93623828-f7a3bf80-f9fc-11ea-9bad-575b5491affa.jpg)
 
 
 
@@ -44,7 +45,11 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 ![](https://visitor-badge.glitch.me/badge?page_id=ayush-pradhan.ayush-pradhan)
 <br/>
 
-![pexels-dương-nhân-1529881](https://user-images.githubusercontent.com/47218490/93623828-f7a3bf80-f9fc-11ea-9bad-575b5491affa.jpg)
+
+![ezgif-3-4d11ed3c18e6](https://user-images.githubusercontent.com/47218490/93660552-cdd6b100-fa6d-11ea-92fb-e923e919105d.gif)
+
+
+
 - 🔭 I’m currently working on [Etherium Technologies](http://etherium.devicology.com/)
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on some dev projects
