@@ -38,9 +38,10 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 <a href="https://www.instagram.com/_ayush_pradhan_">
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://twitter.com/Import_honesty">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+<a href="https://twitter.com/ayush_pradhan_">
+  <img align="left" alt="Ayush | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayush-pradhan.ayush-pradhan)
 <br/>
@@ -52,7 +53,7 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 
 - 🔭 I’m currently working on [Etherium Technologies](http://etherium.devicology.com/)
 - 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on some dev projects
+- 👯 I’m looking to collaborate on Web and Cloud based projects
 - 💬 Ask me about anything
 
 
