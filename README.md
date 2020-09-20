@@ -21,7 +21,7 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 
 
 <br/>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-pradhan-782aa5149//">
+<a href="https://www.linkedin.com/in/ayush-pradhan-782aa5149/">
   <img align="left" alt="Ayush's LinkdeIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
