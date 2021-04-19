@@ -28,9 +28,7 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 <a href="https://www.instagram.com/_ayush_pradhan_">
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://twitter.com/ayush_pradhan_">
-  <img align="left" alt="Ayush | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayush-pradhan.ayush-pradhan)
