@@ -41,7 +41,7 @@ I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-
 
 - 🔭 I’m currently working in [Etherium Technologies](http://etherium.devicology.com/)
 - 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on Web and Cloud based projects
+- 👯 I’m looking to collaborate on Web and Blockchain based projects
 - 💬 Ask me about anything
 
 
